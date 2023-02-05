@@ -9,6 +9,6 @@ class Model {
     }
 
     String toString(){
-        name
+        name;
     }
 }

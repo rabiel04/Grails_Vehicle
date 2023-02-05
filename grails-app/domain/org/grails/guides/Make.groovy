@@ -8,6 +8,6 @@ class Make {
     }
 
     String toString(){
-        name
+        name;
     }
 }

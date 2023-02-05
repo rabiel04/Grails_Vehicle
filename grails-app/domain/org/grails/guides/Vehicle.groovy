@@ -10,7 +10,7 @@ class Vehicle {
 
     static constraints = {
 
-        name maxSize: 255
+        name maxSize: 254
         year min: 1900
     }
 }
